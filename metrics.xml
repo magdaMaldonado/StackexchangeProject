@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>delay_step.png</icon>
+    <name>Start Time</name>
+    <value>Thu Jan 01 01:00:00 CET 1970</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>delay_step.png</icon>
+    <name>End Time</name>
+    <value>Thu Jan 01 01:00:00 CET 1970</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>delay_step.png</icon>
+    <name>Time Taken</name>
+    <value>0 ms</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>/teststeps.gif</icon>
+    <name>TestStep Count</name>
+    <value>0</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>/teststeps.gif</icon>
+    <name>Failed TestStep Count</name>
+    <value>0</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>/assertions.png</icon>
+    <name>Assertion Count</name>
+    <value>0</value>
+    <valueIcon/>
+  </metric>
+  <metric>
+    <category>Result Metrics</category>
+    <icon>/assertions.png</icon>
+    <name>Failed Assertion Count</name>
+    <value>0</value>
+    <valueIcon/>
+  </metric>
+</metrics>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testCase>
+  <testStep>
+    <disabled>false</disabled>
+    <label>DataSource</label>
+    <runnableFromToolbar>false</runnableFromToolbar>
+    <stoppableFromToolbar>true</stoppableFromToolbar>
+  </testStep>
+  <testStep>
+    <disabled>false</disabled>
+    <label>Get User information by Id</label>
+    <runnableFromToolbar>true</runnableFromToolbar>
+    <stoppableFromToolbar>true</stoppableFromToolbar>
+  </testStep>
+  <testStep>
+    <disabled>false</disabled>
+    <label>DataSource Loop</label>
+    <runnableFromToolbar>false</runnableFromToolbar>
+    <stoppableFromToolbar>true</stoppableFromToolbar>
+  </testStep>
+</testCase>
